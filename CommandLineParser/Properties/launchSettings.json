@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "CommandLineParser": {
+      "commandName": "Project",
+      "commandLineArgs": "ResyncByStudyEnvironment --user 781c1a61-4cde-4ea1-a1b6-4d630dc80478 --study-environment 8b23cdc3-d337-467d-a5f2-a75fd4934f51"
+    }
+  }
+}
